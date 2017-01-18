@@ -12,6 +12,14 @@ h1, h2, h3, h4 {
   font-size: xx-large;
 }
 
+.navbar {
+  background-color: rgb(246,52,64);
+}
+
+.navbar a {
+  color: white !important;
+}
+
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
